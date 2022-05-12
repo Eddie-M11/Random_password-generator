@@ -17,3 +17,5 @@ THEN a password is presented with a all the chosen criteria
 The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)# Random_password-generator
+
+https://eddie-m11.github.io/Random_password-generator/
